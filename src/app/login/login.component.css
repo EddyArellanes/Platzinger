@@ -1,0 +1,41 @@
+/*.loginContainer{    
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,15,125,1) 0%, rgba(9,9,121,1) 0%, rgba(8,34,137,1) 50%, rgba(0,212,255,1) 100%);
+
+}*/
+.login-icon{
+    font-size: 10em;
+    color: #757575;
+}
+.avatarFrameOffline{
+    
+    padding: 5%;
+    border-radius: 1px solid white;
+    display: inline-block;
+    
+}
+.status{
+    color: #757575;
+    font-size: 3em;
+}
+.pointer{
+    cursor: pointer;
+}
+.white-text{
+    color: white!important;
+}
+.title{
+    margin-left: -60px;
+}
+.button-background{
+    margin-left: -60px;
+    background: rgba(67,122,173,1);
+    background: -moz-linear-gradient(left, rgba(67,122,173,1) 29%, rgba(67,122,173,1) 36%, rgba(32,124,229,1) 67%, rgba(32,124,229,1) 86%);
+    background: -webkit-gradient(left top, right top, color-stop(29%, rgba(67,122,173,1)), color-stop(36%, rgba(67,122,173,1)), color-stop(67%, rgba(32,124,229,1)), color-stop(86%, rgba(32,124,229,1)));
+    background: -webkit-linear-gradient(left, rgba(67,122,173,1) 29%, rgba(67,122,173,1) 36%, rgba(32,124,229,1) 67%, rgba(32,124,229,1) 86%);
+    background: -o-linear-gradient(left, rgba(67,122,173,1) 29%, rgba(67,122,173,1) 36%, rgba(32,124,229,1) 67%, rgba(32,124,229,1) 86%);
+    background: -ms-linear-gradient(left, rgba(67,122,173,1) 29%, rgba(67,122,173,1) 36%, rgba(32,124,229,1) 67%, rgba(32,124,229,1) 86%);
+    background: linear-gradient(to right, rgba(67,122,173,1) 29%, rgba(67,122,173,1) 36%, rgba(32,124,229,1) 67%, rgba(32,124,229,1) 86%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#437aad', endColorstr='#207ce5', GradientType=1 );
+
+
+}
